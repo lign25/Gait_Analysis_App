@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Authorizing System</string>
+    <string name="measure_start">measure_start</string>
+    <string name="measure_stop">measure_stop</string>
+</resources>
